@@ -16,11 +16,11 @@ git config --global url."https://github.com/".insteadOf "git@github.com:"
 ```
 Now, you can clone the repository and its submodules.
 ```
-git clone --recurse-submodules https://github.com/otr-ebla/albe-social-jym.git
+git clone --recurse-submodules https://github.com/otr-ebla/mbrl-social-jym.git
 ```
 Install the submodules and the main package.
 ```
-cd ~/albe-social-jym
+cd ~/mbrl-social-jym
 pip install -e .
 ```
 
