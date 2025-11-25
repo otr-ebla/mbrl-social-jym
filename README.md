@@ -4,11 +4,11 @@ An environment based on JAX to train mobile robots within crowded environments. 
 ## Installation
 Create a virtual environment.
 ```
-python3 -m venv socialjym
+python3 -m venv socialjym_env
 ```
 Activate the virtual environment.
 ```
-source socialjym/bin/activate
+source socialjym_env/bin/activate
 ```
 First, configure Git to swap the protocols.
 ```
